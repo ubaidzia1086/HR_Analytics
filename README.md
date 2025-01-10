@@ -10,10 +10,15 @@ An HR Analytics Dashboard in Power BI analyzes employee attrition within an orga
 Key Process Indicators Used in this dashboard are:
 
 > Count of Employee
+
 > Average Age
+
 > Average Years
+
 > Average Salary
+
 > Attrition
+
 > Attrition Rate
 
 
